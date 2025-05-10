@@ -1,5 +1,7 @@
 # Kali Linux GRUB Password Bypass
 
+https://www.youtube.com/watch?v=D1cou0Wf6hI
+
 This project demonstrates how to bypass a forgotten Kali Linux user password by exploiting the GRUB bootloader. By modifying the boot parameters at startup, a user can gain root shell access and reset any account password without knowing the original credentials. This highlights the importance of physical security and full disk encryption in Linux-based systems.
 
 ## 🔧 Tools & Environment
